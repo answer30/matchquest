@@ -14,6 +14,9 @@
 ### 📱 Screens
 - `screens/main_tab.dart`: BottomNavigation Scaffold
 
+### auth 
+- `screens/auth/login_screen.dart`: 로그인화면
+
 #### 🔄 Matching
 - `screens/matching/matching_screen.dart`: 스와이프 기반 매칭 화면
 
